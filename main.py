@@ -25,7 +25,7 @@ screen.onkey(snake.down, "Down")
 screen.onkey(snake.left, "Left")
 screen.onkey(snake.right, "Right")
 
-# Game loop
+# Game loop starts here
 game_is_on = True
 while game_is_on:
     screen.update()
