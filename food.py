@@ -4,6 +4,7 @@ import random
 from turtle import Turtle
 
 class Food(Turtle):
+    # Food class spawns randomly on screen
     def __init__(self):
         super().__init__()
         self.shape("circle")
