@@ -1,5 +1,5 @@
 # I acknowledge the use of ChatGPT (version GPT-5 Mini, OpenAI) to assist in creating this file.
-
+# Updated score display styling
 from turtle import Turtle
 
 class Score(Turtle):
